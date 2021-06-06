@@ -1,0 +1,36 @@
+.rs_mainslider .rs_mainslider_dots_container ul.rs_mainslider_dots li {
+    float: none;
+    display: inline-block;
+}
+.rs_center_horizontal_container {
+    margin-left: 0;
+}
+.rs_center_horizontal_container .rs_center_horizontal {
+    margin-left: 0;
+    text-align: center;
+    float: none;
+}
+.rs_mainslider .rs_mainslider_dots_container {
+    right: 0;
+}
+
+
+
+.porto_filter .porto_filterFilter .center {
+    float: none;
+}
+.porto_filter .porto_filterFilter {
+    margin-left: 0;
+    padding-left: 0;
+}
+.porto_filter .porto_filterFilter ul.porto_filterFilterCategories {
+    margin-left: 0;
+    text-align: center;
+}
+.porto_filter .porto_filterFilter ul.porto_filterFilterCategories li {
+    display: inline-block;
+    float: none;
+}
+
+
+

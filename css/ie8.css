@@ -1,0 +1,9 @@
+img{
+    max-width: none;
+}
+.slide_content_box>a>img{
+    width: 100%;
+}
+.rs_mainslider ul.rs_mainslider_items li .rs_mainslider_items_text span {
+    background: black;
+}
