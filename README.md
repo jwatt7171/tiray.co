@@ -1,2 +1,0 @@
-# tiray.co
-websites
